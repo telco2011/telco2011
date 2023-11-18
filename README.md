@@ -1,22 +1,24 @@
-### Hi there, I'm telco2011 👋
+<h1 align="center">Hi there, I'm telco2011 👋</h1>
+<h3 align="center">I'm FullStack Developer at NPAW, the global leader in holistic, end-to-end video intelligence solutions for streaming services.</h3>
 
 ![telco2011 Gihub Stats](https://github-readme-stats.vercel.app/api?username=telco2011&show_icons=true&include_all_commits=true&theme=dark)
-
 ![telco2011 Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=telco2011&layout=compact&theme=dark)
 
-![telco2011's github activity graph](https://activity-graph.herokuapp.com/graph?username=telco2011&theme=dracula)
-
-<!--
-**telco2011/telco2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.java.com/es/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+  </a>
+  <a href="https://arangodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://usarangodb.wpengine.com/wp-content/uploads/2023/07/logo.png" alt="arangodb" width="120" height="40"/>
+  </a>
+</p>
