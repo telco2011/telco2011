@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm telco2011 👋</h1>
-<h3 align="center">I'm FullStack Developer at NPAW, the global leader in holistic, end-to-end video intelligence solutions for streaming services.</h3>
+<h3 align="center">I'm FullStack Developer.</h3>
 
 ![telco2011 Gihub Stats](https://github-readme-stats.vercel.app/api?username=telco2011&show_icons=true&include_all_commits=true&theme=dark)
 ![telco2011 Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=telco2011&layout=compact&theme=dark)
